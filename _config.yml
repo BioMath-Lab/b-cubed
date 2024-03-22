@@ -1,23 +1,32 @@
 # SITE SETTINGS
-title: B-Cubed documentation and tutorials
-description: Documentation, tutorials and workflows for the B-Cubed toolbox.
-url: https://b-cubed-eu.github.io
+title: BioMath, Stellenbosch B-Cubed deliverables
+description: Documentation, tutorials and workflows for the BioMath, Stellenbosch B-Cubed toolbox deliverables.
+url: https://biomath-lab.github.io/b-cubed
 baseurl: ""
+
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: assets/sun.png
+logo: assets/images/su-logo-crop.png
+# Set a path/url to a favicon that will be displayed by the browser
 favicon: favicon.ico
+# favicon_ico: /assets/images/favicon.ico
+# favicon: /assets/favicon.ico
 
 # THEME SETTINGS
 theme: just-the-docs
 
 # Just the docs settings
-logo: /assets/images/b3-logo.png
+# logo: assets/images/b3-logo.png
+# logo: assets/images/sun-logo.png
+# logo: assets/sun.png
 search_enabled: true
 aux_links:
-  GitHub: https://github.com/b-cubed-eu/documentation
+  GitHub: https://github.com/biomath-lab/b-cubed
 
 # Just the docs footer (TODO: currently missing)
 last_edit_timestamp: true
 gh_edit_link: true
-gh_edit_repository: https://github.com/b-cubed-eu/documentation
+gh_edit_repository: https://github.com/biomath-lab/b-cubed
 
 # Just the docs colours
 callouts:
@@ -28,6 +37,7 @@ callouts:
 
 # Just the docs style
 # color_scheme: B-Cubedtheme
+color_scheme: light.scss
 extra_css:
   - assets/css/style.css # TODO: does this work?
 sass:

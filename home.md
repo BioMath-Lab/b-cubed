@@ -6,13 +6,18 @@ nav_order: 1
 ---
 
 {: .fs-9 }
-# B-Cubed documentation and tutorials
+# B-Cubed - BioMath, Stellenbosch
 
 {: .fs-6 .fw-300 }
-Want to work with biodiversity data cubes? Great! On this site you will find documentation and tutorials for all software developed for the [B-Cubed project](http://b-cubed.eu/).
+Welcome to the Mathematical Biosciences (BioMath) GitHub repository, a dedicated space for advancing the understanding and conservation of biodiversity through computational science. Here, we offer an array of R and Python workflows and coding tutorials designed specifically for modeling ecosystem complexity. Our resources are tailored to support researchers, conservationists, and students in their quest to unravel the intricate dynamics of ecosystems and to apply these insights towards effective biodiversity conservation strategies. Whether you are looking to enhance your analytical skills, develop sophisticated models, or explore innovative approaches to ecological research, our repository serves as a bridge between mathematical biosciences and practical conservation efforts. Dive into our content to discover tools and techniques that empower data-driven decision-making and foster a deeper connection with the natural world. Visit our website here: [Mathematical Biosciences Lab](https://www0.sun.ac.za/biomath/).
 
-[Software development guide](/dev-guide/){: .btn .btn-green .me-3 }
-[Data cube guide](/data-cubes/){: .btn .btn-green .mr-3 }
+[Tutorial - Getting Start with spatial analysis in R](/b-cubed/tut-spatial-r/){: .btn .btn-green .me-3 }
+
+[Tutorial - Getting Start with species distribution modelling in R](/b-cubed/tut-sdm-r/){: .btn .btn-green .me-3 }
+
+[Tutorial - Getting Start with Google Earth Engine](/b-cubed/tut-gee/){: .btn .btn-green .me-3 }
+
+[Data cube guide](/b-cubed/data-cubes/){: .btn .btn-green .mr-3 }
 
 <!--
 We are excited to introduce you to the official documentation website for the  - your gateway to unlocking the full potential of data cubes. 
