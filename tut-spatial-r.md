@@ -306,6 +306,7 @@ Variable Description
 - BIO17 	Precipitation of Driest Quarter
 - BIO18 	Precipitation of Warmest Quarter
 - BIO19 	Precipitation of Coldest Quarter
+
 ```r
 bioclim = getData('worldclim', var='bio', res=10, path='Data') 
 bioclim
