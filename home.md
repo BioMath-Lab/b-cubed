@@ -17,7 +17,7 @@ Welcome to the Mathematical Biosciences (BioMath) GitHub repository, a dedicated
 
 [Tutorial - Getting Start with Google Earth Engine](/b-cubed/tut-gee/){: .btn .btn-green .me-3 }
 
-[Data cube guide](/b-cubed/data-cubes/){: .btn .btn-green .mr-3 }
+[Useful Resources](/b-cubed/resources/){: .btn .btn-green .mr-3 }
 
 <!--
 We are excited to introduce you to the official documentation website for the  - your gateway to unlocking the full potential of data cubes. 
